@@ -3,4 +3,4 @@
 
 Исполнитель: Надежда Сапрыкина
 
-Страница GitHub: 
+Страница GitHub: https://nsaprykina.github.io/droggi/
